@@ -1,0 +1,60 @@
+.aboutback{
+    background: url('../../images/download3.jpg')no-repeat  center center fixed;
+     -webkit-background-size:cover;
+     -moz-background-size:cover;
+     -o-background-size:cover;
+     background-size:cover;
+    min-height: 600px;
+}
+
+.AboutButton{
+    background-color: #f7ea66;
+    color: #2c0047;
+}
+.aboutText{
+   
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: 50%;
+    font-size: 20px;
+    color: #fff;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: "Open Sans";
+}
+.homeH2 {
+    font-size: 32px;
+    position: relative;
+    color: #f7ea66;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: "Berkshire Swash";
+    margin-bottom: 41px;
+    text-transform: capitalize;
+    z-index: 9;
+    margin-bottom: 132px;
+    top: 94px;
+}
+
+.linksss{
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    vertical-align: top;
+    text-align: center;
+    line-height: 24px;
+    color: #7f479a;
+    font-weight: 400;
+    font-family: "Berkshire Swash";
+    padding: 12px;
+    border-radius: 35px;
+    width: 155px;
+    height: 48px;
+    -webkit-transition: ease all .5s;
+    -moz-transition: ease all .5s;
+    -o-transition: ease all .5s;
+    transition: ease all .5s;
+    background: #f7ea66;
+    text-decoration: none;
+    
+}

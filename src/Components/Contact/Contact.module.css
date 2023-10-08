@@ -1,0 +1,99 @@
+.aboutback{
+    background: url('../../images/download14.jpg')no-repeat  center center fixed;
+     -webkit-background-size:cover;
+     -moz-background-size:cover;
+     -o-background-size:cover;
+     background-size:cover;
+    min-height: 600px;
+}
+
+
+.heading {
+    font-size: 32px;
+    position: relative;
+    color: #f7ea66;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: "Berkshire Swash";
+    margin-bottom: 113px;
+    text-transform: capitalize;
+    z-index: 1000;
+    top: 83px;
+}
+
+.imgss{
+    position: relative;
+    right: 40%;
+  bottom: 168px;
+}
+
+.contactsss{
+    margin-bottom: 10px;
+    position: relative;
+    color: #ccc;
+    text-transform: capitalize;
+    resize: none;
+    border: 0.5px solid #ccc;
+    font-size: 14px;
+    border-radius: 50px;
+    font-family: "Berkshire Swash";
+    height: 40px;
+    background: transparent;
+    width: 62%;
+    padding-left: 20px;
+    z-index: 9;
+}
+
+.buto{
+    color: #7f479a;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Berkshire Swash";
+    line-height: 24px;
+    background: #f7ea66;
+    border: 0 none;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    outline: 0 none;
+    padding: 8px 22px;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    z-index: 99;
+    transform: translateX(-100%) translateY(0%);
+}
+
+.upd{
+    color: #ccc;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Berkshire Swash";
+    padding: 20px 0;
+    line-height: 24px;
+    
+}
+
+.liii{
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.aaaa{
+    text-align: center;
+    border: 1px solid #f7ea66;
+    float: left;
+    color: #f7ea66;
+    font-size: 16px;
+    width: 38px;
+    height: 38px;
+    line-height: 36px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    -webkit-transition: ease all .5s;
+    -moz-transition: ease all .5s;
+    -o-transition: ease all .5s;
+    transition: ease all .5s;
+}

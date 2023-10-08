@@ -1,0 +1,18 @@
+.navs{
+    background-color: #2c0047;
+    color: #fff;
+}
+
+.linksss {
+    position: relative;
+    padding: 0 10px;
+    display: inline-block;
+    font-size: 16px;
+    vertical-align: top;
+    color: #fff;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: "Berkshire Swash";
+    text-decoration: none;
+    
+}
